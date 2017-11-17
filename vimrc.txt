@@ -1,0 +1,8 @@
+set number
+set cursorline
+set virtualedit=onemore
+set visualbell
+set showmatch
+
+set tabstop=2
+set shiftwidth=2
