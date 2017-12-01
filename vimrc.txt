@@ -1,3 +1,7 @@
+syntax on
+highlight Comment ctermbg=black ctermfg=Green
+highlight String ctermbg=black ctermfg=201
+
 set number
 set cursorline
 set virtualedit=onemore
